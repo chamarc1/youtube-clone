@@ -21,6 +21,7 @@
 
 .sidebar-link:hover {
     background-color: rgb(235, 235, 235);
+    border-radius: 10px;
 }
 
 .sidebar-link img {
@@ -29,7 +30,6 @@
 }
 
 .sidebar-link div {
-    font-family: Roboto, Arial;
     font-size: 10px;
     font-weight: 400;
 }
